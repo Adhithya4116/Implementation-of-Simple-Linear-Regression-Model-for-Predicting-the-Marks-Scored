@@ -10,8 +10,11 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 
 1.Upload the file to your cell.
+
 2.Type the required program. 
+
 3.Print the program.
+
 4.End the program.
 
 ## Program:
