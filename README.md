@@ -1,5 +1,9 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
+## EXPERIMENT NO: 2
+
+## DATE: 28.08.24
+
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
