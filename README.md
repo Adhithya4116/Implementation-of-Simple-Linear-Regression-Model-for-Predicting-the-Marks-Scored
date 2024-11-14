@@ -2,7 +2,7 @@
 
 ## EXPERIMENT NO: 2
 
-## DATE: 28.08.24
+## DATE: 
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
